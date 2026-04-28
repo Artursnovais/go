@@ -1,8 +1,8 @@
 name: Minha Primeira Linha de Montagem
 
- on:
+on:
      push:
-         branches: [ main ]
+         branches:  [ main ]
 
 jobs:
     build-e-teste:
